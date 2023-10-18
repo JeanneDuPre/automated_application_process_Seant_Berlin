@@ -4,7 +4,7 @@ The objective of this project is to autonomously apply for positions at public s
 
 Python Programming (Intermediate Level)<br> 
 
-  a) Development of a Python script capable of dispatching emails along with attachments to various email addresses.<br> 
+  a) Development of a Python script capable of dispatching emails along with attachments to various email addresses.</ br> 
   b) Extraction of data pertaining to schools from Berlin Senate web resources, involving the following steps:<br> 
     i) Cleaning and processing of the provided CSV file to extract information exclusively related to primary schools and<br>      
        their respective email addresses.<br> 
