@@ -7,10 +7,17 @@ Python Programming (Intermediate Level)<br>
 <br>
   a) Development of a Python script capable of dispatching emails along with attachments to various email addresses.<br>b) Extraction of data pertaining to schools from Berlin Senate web resources, involving the following steps:<br> 
   <br>
+  <br>
     i) Cleaning and processing of the provided CSV file to extract information exclusively related to primary schools and<br>      
-       their respective email addresses.<br><br>
-    ii) Personalization of the email content to address individual schools using f-strings.<br><br> 
-  c) Transmission of the customized emails to primary schools by using my Gmail account.<br> 
+       their respective email addresses.
+       <br>
+       <br>
+    ii) Personalization of the email content to address individual schools using f-strings.
+    <br>
+    <br> 
+  c) Transmission of the customized emails to primary schools by using my Gmail account.
+  <br> 
+  <br>
 
 Output:<br>  
 #TODO
